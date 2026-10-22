@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(to right, hsl(152, 34%, 56%), 
+    #e784b7);
+   
+}
+.cantinor{
+    height: 500px;
+    width: 400px;
+    border: 3px solid pink;
+    border-radius: 15px;
+    margin-left: 550px;
+    margin-top: 70px;
+   background: linear-gradient(to right, hsl(152, 34%, 56%), 
+    #e784b7);
+}
+.h1{
+    text-align: center;
+    padding: 20px;
+}
+.p{
+    text-align: center;
+}
+.Us{
+    padding: 10px;
+    width: 300px;
+    margin-left: 35px;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+.Pss{
+    padding: 10px;
+    width: 300px;
+    margin-left: 35px;
+    border-radius: 5px;
+    margin-top: 7px;
+}
+.btn{
+    padding: 10px;
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 47px;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+a{
+    margin-left: 60px;
+
+}
+button{
+    margin-top: 40px;
+   margin-left:75px;
+   width: 100px;
+   padding: 10px;
+   background-color: aqua;
+   border-radius: 5px;
+}
